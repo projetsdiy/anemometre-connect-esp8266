@@ -1,6 +1,8 @@
 # Anémomètre et girouette connectés à base d'ESP8266
 Ce projet permet de réaliser un anémomètre et un girouette et de publier les mesures (par exemple sur un serveur domotique à l'aide du protocole MQTT). Tous les éléments seront à réaliser par impression 3D. Pour obtenir un objet connecté plus compact, le projet est basé sur une carte ESP8266 ESP-12F, <a href="http://www.banggood.com/D1-Mini-NodeMcu-Lua-WIFI-ESP8266-Development-Board-p-1044858.html?p=RA18043558422201601Y" target="_blank" rel="nofollow" data-mce-href="http://www.banggood.com/D1-Mini-NodeMcu-Lua-WIFI-ESP8266-Development-Board-p-1044858.html?p=RA18043558422201601Y">la Wemos D1 mini</a>.
 
+Tutoriel pour la réalisation et toutes les explications : http://www.projetsdiy.fr/projet-diy-anemometre-girouette-objet-connecte-esp8266/
+
 <h1>Contenu du projet Github </h1>
 - Fichiers CAO aux formats STEP et f3d (Autodesk Fusion 360)
 - Fichiers STL à imprimer en 3D
